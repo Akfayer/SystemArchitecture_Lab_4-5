@@ -163,6 +163,11 @@ namespace PL
                 ErrorMessage();
         }
 
+        public void Nothing()
+        {
+            
+        }
+
         public void UpdateDesigner()
         {
             ShowDesigners();
